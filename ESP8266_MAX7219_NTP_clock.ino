@@ -5,8 +5,8 @@
 #include <TimeLib.h>
 #include <Ticker.h>
 
-const char *ssid     = "M_SSID";
-const char *password = "mati6maja";
+const char *ssid     = "ssid";
+const char *password = "password";
 
 int counter;
 int clockminusstatus;
